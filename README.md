@@ -1,4 +1,4 @@
-# My site homepage <img alt="Site Badge" src="./data_src/sitemysite.png"/>
+# My site homepage <img alt="Site Badge" src="./data_src/sitemysite.PNG"/>
 
 This is a folder with data for the homepage for the page [nico1monte.github.io](https://nico1monte.github.io)
 
